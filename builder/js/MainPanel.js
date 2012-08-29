@@ -41,7 +41,7 @@ Ext.formbuilder.save = function(showPreview) {
  */
 Ext.formbuilder.createMainPanel = function(children){
     return Ext.create('Ext.panel.Panel', {
-        width: 960,
+        width: 920,
         height: 820,
         title: 'Form Editor',
         layout: 'border',
